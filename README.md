@@ -1,2 +1,1 @@
-# FIFE-Net
-An adaptive feature interaction and local-regional-global feature extraction universal land-cover change detection network
+# FIFE-Net: A versatile land-cover change detection network with adaptive feature interaction and local-regional-global feature extraction
